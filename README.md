@@ -1,6 +1,8 @@
 # Foolproof front-end engineering technical exercise
 
-Create a React app that will display some information from the provided API. You are welcome to use something like Create React App to get started quickly (or not!). It is up to you to decide if you want to use Typescript or not (we're happy either way!).
+Create a web app that will display some information from the provided API. You are welcome to use any 
+framework (or not) you prefer and feel free to use an accelerator (eg Create React App) to get you 
+started quickly. It is up to you to decide if you want to use Typescript or not (we're happy either way!).
 
 ## API
 
