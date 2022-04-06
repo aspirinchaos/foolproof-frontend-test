@@ -22,7 +22,7 @@ The server will now listen at http://localhost:3001 and you can try the 3 differ
 
 ## The App
 
-Create a React app that will display the Users, the Files and the Types.
+Create a web app that displays the Users, the Files and the Types.
 
 For the Files we would like to show the name of the user that updated and created the file and also type of the file.
 
