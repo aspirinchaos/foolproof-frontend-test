@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Container atom renders correctly 1`] = `
+.c0 {
+  width: 100%;
+  max-width: 1200px;
+  margin: auto;
+}
+
+<section
+  class="c0"
+>
+  Content
+</section>
+`;
